@@ -1,0 +1,2 @@
+;
+// sayHi(`${firstName} ${lastName}`);
